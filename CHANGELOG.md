@@ -20,7 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `.claude-plugin/marketplace.json` - Marketplace entry
 - `scripts/post-install.sh` - Automated setup script
 - `CHANGELOG.md` - This file
-- `LICENSE` - MIT license
+- `LICENSE` - UT Southwestern Academic Research License
 - Migration guide in README.md
 
 ### Fixed

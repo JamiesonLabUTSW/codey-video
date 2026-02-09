@@ -257,4 +257,6 @@ Contributions welcome! Please see [CLAUDE.md](CLAUDE.md) for developer documenta
 
 ## License
 
-MIT
+Copyright (c) 2026 The University of Texas Southwestern Medical Center.
+
+Licensed for academic research use only. See [LICENSE](LICENSE) for details. Commercial use is expressly prohibited.

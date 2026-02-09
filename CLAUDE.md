@@ -27,7 +27,7 @@ codey-video/
 ├── uninstall.sh                        # DEPRECATED: Legacy uninstallation
 ├── README.md                           # User-facing install + usage docs
 ├── CLAUDE.md                           # This file - developer docs
-├── LICENSE                             # MIT license
+├── LICENSE                             # UT Southwestern Academic Research License
 ├── CHANGELOG.md                        # Version history
 ├── scripts/                            # Shared preprocessing scripts
 │   ├── package.json
