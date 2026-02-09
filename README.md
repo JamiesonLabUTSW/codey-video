@@ -12,7 +12,8 @@ A Claude Code plugin providing powerful video analysis skills that combine visua
 
 ## Features
 
-- **100% Local Processing** - All video processing and AI analysis happens on your machine. No data sent to external services.
+- **100% Local Processing** - All video processing and transcription happens on your machine.
+  - Relies on Claude Code for AI analysis.  
 - **Multimodal Analysis** - Combines visual frames (1fps) with Whisper audio transcription for comprehensive understanding
 - **Fast Haiku Subagent** - Uses Claude Haiku with native vision for cost-effective analysis
 - **Pure Node.js** - No Python dependencies. Uses TypeScript + npm for all preprocessing
