@@ -1,0 +1,20 @@
+{
+  "name": "codey-video",
+  "version": "2.0.0",
+  "description": "Multimodal video analysis combining frame extraction and Whisper transcription. Includes segment analysis, outline generation, and full transcription.",
+  "author": {
+    "name": "Michael"
+  },
+  "homepage": "https://github.com/yourusername/codey-video",
+  "repository": "https://github.com/yourusername/codey-video",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "analysis",
+    "transcription",
+    "whisper",
+    "multimodal",
+    "frames",
+    "ffmpeg"
+  ]
+}

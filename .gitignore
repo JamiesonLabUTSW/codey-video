@@ -1,0 +1,12 @@
+# Dependencies
+scripts/node_modules/
+scripts/dist/
+
+# Whisper models
+resources/models/*.bin
+
+# Plugin cache
+.claude-plugin/.cache/
+
+# OS
+.DS_Store

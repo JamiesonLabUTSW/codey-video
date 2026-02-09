@@ -1,0 +1,2 @@
+# Whisper model binaries (large files - download via npm script)
+models/*.bin
